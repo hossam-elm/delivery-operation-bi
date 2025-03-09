@@ -12,8 +12,11 @@ The company provides a VIP delivery service where customers can select a specifi
 Track and visualize delivery performance across multiple hubs.  
 
 ### **📄 Pages: Relevant Insights for Multiple Stakeholders**  
-- **Logistics Director Page:** Provides a high-level overview of key metrics with filters by HUB and client to highlight trends requiring corrective or preventive actions.  
+- **Logistics Director Page:** Provides a high-level overview of key metrics with filters by HUB and client to highlight trends requiring corrective or preventive actions, aswell as an overview of the health of the supply chain & insights on profitability.
+  ![image](https://github.com/user-attachments/assets/506b7aaa-5a76-4e9f-ace1-b55a95f2264c)
+
 - **HUB Managers Page:** Allows a deeper dive into operational data, evaluating individual couriers' performance, optimizing courier allocation, and displaying key KPIs with month-over-month comparisons.  
+  ![image](https://github.com/user-attachments/assets/7f249056-af13-406a-9198-d6f05a62a5b7)
 
 ---
 
