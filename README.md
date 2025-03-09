@@ -4,6 +4,8 @@
 
 This project features a Power BI dashboard designed to provide a comprehensive overview of key performance indicators (KPIs) for a parcel delivery company operating in Paris and its surrounding areas. It offers insights into the punctuality of delivery operations, success rates, and other critical metrics. These insights help the company track operations and make data-driven decisions to improve efficiency, such as courier allocation, volume shifting between hubs, and identifying trends on high-volume days.  
 
+This dashboard is optimized for scaling could be directly hooked into an API or SQL server to generate monthly reports automatically using an ETL pipeline.
+
 The company provides a VIP delivery service where customers can select a specific time window on a particular date for parcel delivery. Parcels are received from four large logistics platforms (e.g., DHL) and dispatched to three hubs. Each hub serves designated sections of Paris and its suburbs.  
 
 ---
